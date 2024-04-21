@@ -215,5 +215,7 @@
   	<module>Movie_Checking_Service</module>
   	<module>DiscoveryServer</module>
   	<module>Discover_Server</module>
+  	<module>Api_Gateway</module>
+  	<module>BookingNotificationService</module>
   </modules>
 </project>
